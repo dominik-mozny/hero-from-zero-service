@@ -1,3 +1,4 @@
 .idea/
 target/
 hero-from-zero-service.iml
+src/main/resources/application.properties
